@@ -1,0 +1,37 @@
+﻿l_english:
+
+USS_democratic:0 "Eagal Union"
+USS_democratic_DEF:0 "The Eagal Union"
+USS_democratic_ADJ:0 "American"
+
+KMS_fascism:0 "Iron Blood"
+KMS_fascism_DEF:0 "The Iron Blood"
+KMS_fascism_ADJ:0 "German"
+
+HMS_monarchy:0 "Royal Navy"
+HMS_monarchy_DEF:0 "The Royal Navy"
+HMS_monarchy_ADJ:0 "British"
+
+IJN_fascism:0 "Sakura Empire"
+IJN_fascism_DEF:0 "The Sakura Empire"
+IJN_fascism_ADJ_ADJ:0 "Japanese"
+
+ROC_monarchy:0 "Dragon Empepry"
+ROC_monarchy_DEF:0 "The Dragon Empepry"
+ROC_monarchy_ADJ:0 "Chinese"
+
+VMF_communism:0 "Northern Parliament"
+VMF_ideology_DEF:0 "The Northern Parliament"
+VMF_communism_ADJ:0 "Russian"
+
+FFN_democractic:0 "Iris Libre"
+FFN_democratic_DEF:0 "The Iris Libre"
+FFN_democractic_ADJ:0 "French"
+
+MNF_monarchy:0 "Vichya Dominion"
+MNF_monarchy_DEF:0 "The Vichya Dominion"
+MNF_monarchy_ADJ:0 "French"
+
+RMI_fascism:0 "Sardegna Empire"
+RMI_fascism_DEF:0 "The Sardegna Empire"
+RMI_fascism_ADJ:0 "Italian"
