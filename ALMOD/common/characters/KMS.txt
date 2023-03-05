@@ -1,0 +1,41 @@
+characters={
+
+	KMS_Bismarck={
+		name="Bismarck"
+		portraits={
+			civilian={
+				large="gfx/leaders/KMS/Portrait_iron_Bismarck.dds"
+			}
+		}
+		country_leader={
+			ideology=falangism
+			expire="1965.1.1.1"
+		}
+	}
+
+	KMS_Deutschland={
+		name="Deutschland"
+		portraits={
+			civilian={
+				large="gfx/leaders/KMS/Portrait_iron_Deutschland.dds"
+			}
+		}
+		country_leader={
+			ideology=falangism
+			expire="1965.1.1.1"
+		}
+	}
+
+	KMS_Tirpitz={
+		name="Deutschland"
+		portraits={
+			civilian={
+				large="gfx/leaders/KMS/Portrait_iron_Tirpitz.dds"
+			}
+		}
+		country_leader={
+			ideology=falangism
+			expire="1965.1.1.1"
+		}
+	}
+}
