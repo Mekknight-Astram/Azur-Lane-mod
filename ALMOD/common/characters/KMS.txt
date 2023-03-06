@@ -27,7 +27,7 @@ characters={
 	}
 
 	KMS_Tirpitz={
-		name="Deutschland"
+		name="Tirpitz"
 		portraits={
 			civilian={
 				large="gfx/leaders/KMS/Portrait_iron_Tirpitz.dds"

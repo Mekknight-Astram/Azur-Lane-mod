@@ -4,9 +4,9 @@
 
 set_research_slots = 4
 
-recruit_character = KMS_Bismarck
-recruit_character = KMS_Deutschland
 recruit_character = KMS_Tirpitz
+recruit_character = KMS_Deutschland
+recruit_character = KMS_Bismarck
 recruit_character = 
 recruit_character = 
 recruit_character = 
