@@ -1,0 +1,36 @@
+music = {
+	name = "dawn_of_freedom"
+	file = "dawn_of_freedom.ogg"
+}
+music = {
+	name = "carry_out_the_order"
+	file = "carry_out_the_order.ogg"
+}
+music = {
+	name = "a_pleasant_bustle"
+	file = "a_pleasant_bustle.ogg"
+}
+music = {
+	name = "dance_of_the_blossom"
+	file = "dance_of_the_blossom.ogg"
+}
+music = {
+	name = "a_pleasant_bustle_2"
+	file = "a_pleasant_bustle_2.ogg"
+}
+music = {
+	name = "run_with_courage"
+	file = "run_with_courage.ogg"
+}
+music = {
+	name = "dreadnought_heroines"
+	file = "dreadnought_heroines.ogg"
+}
+music = {
+	name = "brilliant_deception"
+	file = "brilliant_deception.ogg"
+}
+music = {
+	name = "wild_feelings"
+	file = "wild_feelings.ogg"
+}

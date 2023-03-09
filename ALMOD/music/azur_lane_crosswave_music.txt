@@ -1,0 +1,86 @@
+music_station = "azur_lane_crosswave_music_station"
+music = {
+	song = "dawn_of_freedom"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "carry_out_the_order"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "a_pleasant_bustle"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "dance_of_the_blossom"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+		modifier = {
+			tag = IJN
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "a_pleasant_bustle_2"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "run_with_courage"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "dreadnought_heroines"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "brilliant_deception"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music = {
+	song = "wild_feelings"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
