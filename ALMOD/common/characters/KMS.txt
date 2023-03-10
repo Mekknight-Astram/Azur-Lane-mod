@@ -46,7 +46,7 @@ characters={
 			}
 		}
 		corps_commander = {
-			traits = { panzer_leader }
+			traits = { trait_reckless media_personality armor_officer war_hero trickster panzer_leader panzer_expert }
 			attack_skill=4
 			defense_skill=4
 			planning_skill=2
