@@ -38,4 +38,49 @@ characters={
 			expire="1965.1.1.1"
 		}
 	}
+	KMS_Prinz_Eugen={
+		name="Prinz Eugen"
+		portraits={
+			civilian={
+				large="gfx/leaders/KMS/Portrait_iron_Prinz_Eugen.dds"
+			}
+		}
+		corps_commander = {
+			traits = { panzer_leader }
+			attack_skill=4
+			defense_skill=4
+			planning_skill=2
+			logistics_skill=3
+		}
+	}
+	KMS_Admiral_Hipper={
+		name="Admiral Hipper"
+		portraits={
+			civilian={
+				large="gfx/leaders/KMS/Portrait_iron_Admiral_Hipper.dds"
+			}
+		}
+		corps_commander = {
+			traits = { panzer_leader }
+			attack_skill=4
+			defense_skill=4
+			planning_skill=2
+			logistics_skill=3
+		}
+	}
+	KMS_Graf_Zepplin={
+		name="Graf Zepplin"
+		portraits={
+			civilian={
+				large="gfx/leaders/KMS/Portrait_iron_Graf_Zepplin.dds"
+			}
+		}
+		corps_commander = {
+			traits = { panzer_leader }
+			attack_skill=4
+			defense_skill=4
+			planning_skill=2
+			logistics_skill=3
+		}
+	}
 }
