@@ -12,16 +12,16 @@ state=
 		victory_points = {
 			3583 5
 		}
-		owner = CZE
+		owner = KMS
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
 		}
-		add_core_of = CZE
+		add_core_of = KMS
 
 		1938.9.30 = {
-			owner = GER
-			controller = GER
+			owner = KMS
+			controller = KMS
 		}
 	}
 	provinces= {
